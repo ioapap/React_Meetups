@@ -7,7 +7,7 @@ This is a dummy application created to practice and learn core concepts of NextJ
 - View detailed information for specific meetups 🔎
 - File-based routing 🗂️
 - Dynamic pages 📄
-- Pre-rendering with getStaticProps and getServerSideProps 🎨
+- Pre-rendering with `getStaticProps` and `getServerSideProps` 🎨
 - Server-side code execution 🖥️
 - API routes for custom REST API 🌐
 
